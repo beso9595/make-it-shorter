@@ -8,7 +8,7 @@
 მას შემდეგ რაც www ფოლდერში არსებულ ფაილებს ატვირთავთ ჰოსტზე, გაუშვით "install.php" ფაილი, გახადეთ "data" ფოლდერი writable და შეავსეთ ველები.
 ბაზასთან კავშირის წარმატებით დამყარების შემდეგ შეიქმნება ცხრილი, სადაც შეინახება მონაცემები და ასევე "data/config.ini" ფაილი, რომელშიც იქნება განთავსებული თქვენს მიერ შეყვანილი ინფორმაცია.თუ გსურთ ინსტალაციის თავიდან გაშვება წაშალეთ ფაილი "data/config.ini".ინსტალაციის წარმატებით დასრულების შემდეგ აუცილებლად წაშალეთ "install.php" ფაილი.<br>
 თუ გსურთ ენის დამატება ამისათვის:<br>
-1)აიღეთ {ნიმუში}, თართგმნეთ სასურველ ენაზე, დაარქვით სწორი სახელი "lang_##.ini" და შეინახეთ "data/lang" დირექტორიაში.<br>
+1)აიღეთ ნიმუში ენის ფოლდერიდან(data/lang), თართგმნეთ სასურველ ენაზე, დაარქვით სწორი სახელი "lang_##.ini" და შეინახეთ "data/lang" დირექტორიაში.<br>
 2)შექმენით ან გადმოწერეთ ენის დროშა და შეინახეთ "##.ico" ფორმატში "img" დირექტორიაში.<br>
 3)შექმენით ლოგო, დაარქვით "logo_##.png" და შეინახეთ "img" დირექტორიაში.<br>
 </div>
@@ -19,7 +19,7 @@
 <b>English:</b><br>
 After uploading files in www folder on the host run "install.php" file, make "data" folder writable and fill the fields.After you connect to database successfully the data table will be created.Also "data/config.ini" file, where all info you entered during installation will be saved.If you want to run installation again first delete "data/config.ini" file.After successfull installation delete "install.php" file.<br>
 If you want to add language:<br>
-1)Download the {template}, translate it into language you want, name it "lang_##.ini" and save into "data/lang" directory.<br>
+1)Download the template from language folder(data/lang), translate it into language you want, name it "lang_##.ini" and save into "data/lang" directory.<br>
 2)Create or download flag, name it "##.ico" and save it into "img" directory.<br>
 3)Create logo, name it "logo_##.png" and save it into "img" directory.<br>
 </div>
