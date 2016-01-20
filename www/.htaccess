@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^([a-zA-Z0-9]+)$ index.php?code=$1
+AddDefaultCharset utf-8
+ErrorDocument 404 /404.php
