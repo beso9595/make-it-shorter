@@ -11,6 +11,7 @@
 1)აიღეთ ნიმუში ენის ფოლდერიდან(data/lang), თართგმნეთ სასურველ ენაზე, დაარქვით სწორი სახელი "lang_##.ini" და შეინახეთ "data/lang" დირექტორიაში.<br>
 2)შექმენით ან გადმოწერეთ ენის დროშა და შეინახეთ "##.ico" ფორმატში "img" დირექტორიაში.<br>
 3)შექმენით ლოგო, დაარქვით "logo_##.png" და შეინახეთ "img" დირექტორიაში.<br>
+(*) ## - ქვეყნის ენის კოდი(639-1).<br>
 </div>
 
 ======
@@ -22,13 +23,19 @@ If you want to add language:<br>
 1)Download the template from language folder(data/lang), translate it into language you want, name it "lang_##.ini" and save into "data/lang" directory.<br>
 2)Create or download flag, name it "##.ico" and save it into "img" directory.<br>
 3)Create logo, name it "logo_##.png" and save it into "img" directory.<br>
+(*) ## - Country language code(639-1).<br>
 </div>
 
 ======
 
 <div id="ru">
 <b>Русский:</b><br>
-Скоро будет..
+После загрузки файлов на хост запустите "install.php" файл, сделайте директорию "data" writable и заполните полы.После успешного контакта к базу данных, будет создано табличка дата.Ишо будет создано "data/config.ini" файл, где будет сохранено вся информация которую вы вели во время инсталляции.Если хотите начать инсталляцию занова, с превью удалите "data/config.ini" файл.После успешного инсталяции удалите "install.php" файл.<br>
+Если хотите добавить язык:<br>
+1)Загрузите образец (data/lang), переведите на котором вы хотите, именовать как "lang_##.ini" и сохранить в директорию "data/lang".<br>
+2)Создайте или загрузите флагу, именовать флагу как "##.ico" и сохранить в директорию "img".<br>
+3)Создайте логотип, именовать как "logo_##.png" и сохранить в директорию "img".<br>
+(*) ## - Код языка страны(639-1).<br>
 </div>
 
 ======
