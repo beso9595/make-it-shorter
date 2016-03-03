@@ -4,7 +4,6 @@
 		
 		public static function get($key){
 			if(file_exists("/../data/config.ini")){
-				echo $key;
 				die("Missing config file!");
 			}
 			$dir = dirname(__DIR__) . "/data/config.ini";
