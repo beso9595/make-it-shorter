@@ -47,7 +47,7 @@
 			</ul>
 		</div>
 		<div id="header">
-			<a href=""><img src="img/logo_<?php echo Lang::get("logo"); ?>.png"></a>
+			<a href=""><img src="img/logo_<?php echo Lang::get("logo"); ?>.png" alt="logo"></a>
 		</div>
 		<!-- -->
 		<div class="col-md-5 col-centered" id="content" >
