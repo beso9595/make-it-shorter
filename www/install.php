@@ -23,7 +23,7 @@
 	</head>
 	<body>
 		<div id="ins_header">
-			<img src="img/header.png">
+			<img src="img/header.png" alt="header">
 		</div>
 		<div id="instructions">
 			<textarea class = "form-control" rows="7" cols="10" readonly style="resize: none">
@@ -78,7 +78,7 @@
 				</tr>
 				<tr>
 					<td><label>E-mail: </label></td>
-					<td><input type="email" value="" placeholder="ex: someone@mail.com"name="mail"></td>
+					<td><input type="email" value="" placeholder="ex: someone@mail.com" name="mail"></td>
 					<td class="start">*</td>
 				</tr>
 				<tr>
