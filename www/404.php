@@ -13,7 +13,7 @@
 	</head>
 	<body>
 		<div id="header">
-			<img src="img/404.png">
+			<img src="img/404.png" alt="404">
 		</div>
 	</body>
 </html>
