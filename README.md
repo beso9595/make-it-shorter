@@ -1,7 +1,7 @@
 <img src="http://i.imgur.com/WqjrQM1.png" alt="logo"><br>
 #Make It Shorter - Link Shortener<br>
 
-##Site: <a target="blank" href="#">404</a>-->
+##Site: <a target="blank" href="#">404</a>
 
 <div id="ka">
 <b>ქართული:</b><br>
